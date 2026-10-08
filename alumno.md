@@ -2,5 +2,5 @@
 
 - Nombre:Sergio David
 - Apellidos:Cruz Herrera
-- Usuario de GitHub:
-- Curso:
+- Usuario de GitHub:Trisqui36
+- Curso:Primero de DAW
