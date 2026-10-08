@@ -1,0 +1,24 @@
+[33mcommit 621878c6de7e75036f97987f007bc1827e271bd1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/mi-funcionalidad[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmi-funcionalidad[m[33m)[m
+Author: Sergio David Cruz Herrera <sergiodavidcruzherrera@gmail.com>
+Date:   Thu Oct 8 16:50:32 2026 +0100
+
+    presentacion.md añadida
+
+[1mdiff --git a/presentacion.md b/presentacion.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fbdeb0f[m
+[1m--- /dev/null[m
+[1m+++ b/presentacion.md[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m# Mi presentación[m
+[32m+[m
+[32m+[m[32m## Sobre mí[m
+[32m+[m
+[32m+[m[32mHola soy Sergio David Cruz Herrera (Trisqui36) en git hub y aqui ando, haciendo tareas sobre el anterior mencionado, me gustan mucho los videojuegos y quiero aprender sobretodo a programar.[m
+[32m+[m
+[32m+[m[32m## Tecnologías[m
+[32m+[m
+[32m+[m[32m- Git[m
+[32m+[m[32m- GitHub[m
+[32m+[m[32m- Linux[m
+[32m+[m[32m- Markdown[m
